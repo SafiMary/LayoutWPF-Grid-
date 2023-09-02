@@ -21,6 +21,7 @@ namespace LayoutWPF_Grid_
     public partial class MainWindow : Window
     {
         public MainWindow()
+
         {
             InitializeComponent();
         }
